@@ -6,7 +6,7 @@ import fontforge
 
 
 # gets us chrs we think are valid to replace
-validChr = string.ascii_letters + "?/:!.@#$%^&*()_-+=[]{}<>,1234567890 "
+validChr = string.ascii_letters + '?/:!.@#$%^&*()_-+=[]{}<>,1234567890"" '
 
 def generateFonts(originalFont, outputDir='fonts'):
     tmpFont = "temp.ttf"
