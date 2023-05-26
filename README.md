@@ -6,7 +6,7 @@
     A powerful tool for typography-based cyber security vulnerabilities. Generates custom fonts, CSS files, and HTML to visualize and explore security risks.
     <br/>
     <br/>
-    <a href="https://jax.dev/fontpocalypse">View Demo</a>
+    <a href="https://fontpocalypse.jax.dev/">View Demo</a>
     .
     <a href="https://github.com/anger/fontpocalypse/issues">Report Bug</a>
     .
