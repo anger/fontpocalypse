@@ -7,9 +7,9 @@
     <br/>
     <br/>
     <a href="https://fontpocalypse.jax.dev/">View Demo</a>
-    .
+    -
     <a href="https://github.com/anger/fontpocalypse/issues">Report Bug</a>
-    .
+    -
     <a href="https://github.com/anger/fontpocalypse/issues">Request Feature</a>
   </p>
 </p>
