@@ -131,8 +131,7 @@ if __name__ == "__main__":
     made by github.com/anger                                                                                                                                                                                                                                                
     """)
     print("Link your page to the proper css: ")
-    print(f'<link rel="stylesheet" href="{cssName}">')
-    print("\n")
+    print(f'<link rel="stylesheet" href="{cssName}">', end='\n')
     # outputs html code to put on your page
     print("Swapped text HTML: ")
     print(generateHTML(toWrite, toSee))
