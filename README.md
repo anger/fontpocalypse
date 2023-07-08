@@ -14,7 +14,9 @@
   </p>
 </p>
 
-<center><img src='/src/fontpocalypse.png'></img></center>
+<p align="center">
+  <img src="/src/fontpocalypse.png" alt="Fontpocalypse" width="200" height="200">
+</p>
 
 ## Table Of Contents
 
