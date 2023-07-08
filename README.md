@@ -1,5 +1,8 @@
 <br/>
 <p align="center">
+  <p align="center">
+  <img src="/src/fontpocalypse.png" alt="Fontpocalypse" width="200" height="200">
+</p>
   <h1 align="center">fontpocalypse</h1>
 
   <p align="center">
@@ -14,9 +17,7 @@
   </p>
 </p>
 
-<p align="center">
-  <img src="/src/fontpocalypse.png" alt="Fontpocalypse" width="200" height="200">
-</p>
+
 
 ## Table Of Contents
 
