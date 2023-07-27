@@ -6,7 +6,7 @@
   <h1 align="center">fontpocalypse</h1>
 
   <p align="center">
-    A powerful tool for typography-based cyber security vulnerabilities. Generates custom fonts, CSS files, and HTML to visualize and explore security risks.
+    A powerful tool for typography-based cyber security vulnerabilities. Generates custom fonts, CSS files, and HTML to visualize and explore typography-based security risks.
     <br/>
     <br/>
     <a href="https://fontpocalypse.jax.dev/">View Demo</a>
