@@ -13,7 +13,7 @@
     -
     <a href="https://github.com/anger/fontpocalypse/issues">Report a Bug</a>
     -
-    <a href="https://github.com/anger/fontpocalypse/issues">Request Feature</a>
+    <a href="https://github.com/anger/fontpocalypse/issues">Request a Feature</a>
   </p>
 </p>
 
