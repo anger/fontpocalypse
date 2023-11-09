@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+h1, h2 {
+    color: #cc0000;
+}
+
+.copy-paste-section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.command {
+    background-color: #e5e5e5;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
