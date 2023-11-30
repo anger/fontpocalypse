@@ -1,27 +1,46 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
     line-height: 1.6;
-    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
     color: #333;
+    background-color: #f4f4f4;
 }
 
-h1, h2 {
-    color: #cc0000;
+header, footer {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1, footer h2 {
+    margin: 0;
+}
+
+section {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
 }
 
 .copy-paste-section {
-    background-color: #fff;
-    padding: 20px;
-    margin-bottom: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    background-color: #e9ecef;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 15px;
 }
 
 .command {
-    background-color: #e5e5e5;
-    padding: 10px;
+    font-family: monospace;
+    color: #ff0000;
+    word-break: break-all;
+}
+
+ul {
+    list-style: disc inside;
+}
+
+ul li {
     margin-bottom: 10px;
-    border-radius: 5px;
 }
